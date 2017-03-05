@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Android Nano Degree\3\New folder\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="E:\Android Nano Degree\3\New folder\XYZReader\build\intermediates\pre-dexed\debug\volley_3d8758a3dd1198011b4a0008ba632f08b841126c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android Nano Degree\3\New folder\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="E:\Android Nano Degree\3\New folder\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-22.0.0_7ff20e29ea090fd7ad6e9b5eb755098fa8462237.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android Nano Degree\3\New folder\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="E:\Android Nano Degree\3\New folder\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_d1e3b325eb18b09277411bc26dde1ff6104e2c43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android Nano Degree\3\New folder\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="E:\Android Nano Degree\3\New folder\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v13-22.0.0_879b0bc6e50b28c787f68dd9d147811c45970923.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android Nano Degree\3\New folder\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="E:\Android Nano Degree\3\New folder\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.0.0_8dbdb2474659468754bd4ccc8eb2880e03da1959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android Nano Degree\3\New folder\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="E:\Android Nano Degree\3\New folder\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_1ed8dbfc00026f4377d022684d19d975db9f59af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\siko\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\Android Nano Degree\3\New folder\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0_0770c3a76c36ea41f34596f83cc38c3855b5c23c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Newfolder\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="E:\Android Nano Degree\3\New folder\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_23e2637fe8a867bd715cfabc8ae891cbc11f1805.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android Nano Degree\3\New folder\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="E:\Android Nano Degree\3\New folder\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-22.0.0_76e683a305f0f47d63556c3f97fd53879152db63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android Nano Degree\3\New folder\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="E:\Android Nano Degree\3\New folder\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.0.0_c3de5c08d399aa300b5f50150d6e15274fbdfe91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\siko\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="E:\Android Nano Degree\3\New folder\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2_fa0dd2b6e24a7c3876eabc5ad1b8ce882abf7f1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android Nano Degree\3\New folder\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="E:\Android Nano Degree\3\New folder\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.0.0_f28b32098b8a9dbfb34d0ad0477b4bc7d19dd075.jar" />
+    </item>
+
+</items>
