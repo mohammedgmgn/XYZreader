@@ -1,4 +1,4 @@
-#Wed Mar 08 02:21:21 WAT 2017
+#Wed Mar 08 02:37:52 WAT 2017
 base.0=E\:\\Android\\XYZreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=E\:\\Android\\XYZreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
