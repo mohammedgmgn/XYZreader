@@ -39,7 +39,7 @@
     <color name="colorAccent_400">#26C6DA</color>
     <color name="colorAccent_50">#e0f7fa</color>
     <color name="colorControlActivated">#4DD0E1</color>
-    <color name="colorPrimary">#9c9b9b</color>
+    <color name="colorPrimary">#00BCD4</color>
     <color name="colorPrimaryDark">#00ACC1</color>
     <color name="design_fab_shadow_end_color">@android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>

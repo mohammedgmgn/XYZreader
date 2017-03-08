@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
     <resources>
         <!-- For theme -->
-        <color name="colorPrimary">#9c9b9b</color>
+        <color name="colorPrimary">#00BCD4</color>
         <color name="colorPrimaryDark">#00ACC1</color>
         <!-- Accent (Cyan) -->
         <color name="colorAccent">#00BCD4</color>
