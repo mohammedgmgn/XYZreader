@@ -94,6 +94,7 @@
         android:id="@+id/share_fab"
         android:stateListAnimator="@anim/fab_state_list_anim"
         android:layout_gravity="bottom|end"
+        app:layout_behavior="com.example.xyzreader.ui.FAB_Hide_on_Scroll"
         android:layout_marginRight="@dimen/fab_margin"
         android:layout_marginBottom="@dimen/fab_margin"
         android:layout_width="56dp"
