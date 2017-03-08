@@ -39,8 +39,8 @@
     <color name="colorAccent_400">#26C6DA</color>
     <color name="colorAccent_50">#e0f7fa</color>
     <color name="colorControlActivated">#4DD0E1</color>
-    <color name="colorPrimary">#00BCD4</color>
-    <color name="colorPrimaryDark">#00ACC1</color>
+    <color name="colorPrimary">#7c9093</color>
+    <color name="colorPrimaryDark">#5a5c5c</color>
     <color name="design_fab_shadow_end_color">@android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>
     <color name="design_fab_shadow_start_color">#44000000</color>
@@ -552,7 +552,7 @@
     <dimen name="detail_title_text_size">32sp</dimen>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
-    <dimen name="fab_elevation">2dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="fab_press_translation_z">6dp</dimen>
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>

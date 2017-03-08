@@ -407,7 +407,14 @@
                     "endOffset": 2354
                 },
                 "from": {
-                    "file": "E:\\Android\\XYZreader\\XYZReader\\src\\main\\res\\values\\colors.xml"
+                    "file": "E:\\Android\\XYZreader\\XYZReader\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 8,
+                        "startOffset": 233,
+                        "endColumn": 49,
+                        "endOffset": 274
+                    }
                 }
             },
             {
@@ -498,7 +505,14 @@
                     "endOffset": 2707
                 },
                 "from": {
-                    "file": "E:\\Android\\XYZreader\\XYZReader\\src\\main\\res\\values\\colors.xml"
+                    "file": "E:\\Android\\XYZreader\\XYZReader\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 8,
+                        "startOffset": 145,
+                        "endColumn": 54,
+                        "endOffset": 191
+                    }
                 }
             },
             {
