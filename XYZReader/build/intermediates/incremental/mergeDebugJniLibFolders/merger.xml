@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\Android Nano Degree\3\New folder\XYZReader\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="E:\Android Nano Degree\3\New folder\XYZReader\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\Android\XYZreader\XYZReader\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="E:\Android\XYZreader\XYZReader\src\debug\jniLibs"/></dataSet></merger>

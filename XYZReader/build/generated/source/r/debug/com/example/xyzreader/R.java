@@ -2793,10 +2793,10 @@ containing a value of this type.
         public static final int alertTitle=0x7f0d004c;
         public static final int all=0x7f0d0032;
         public static final int always=0x7f0d0036;
-        public static final int article_body=0x7f0d0087;
-        public static final int article_byline=0x7f0d0086;
+        public static final int article_body=0x7f0d0086;
+        public static final int article_byline=0x7f0d0085;
         public static final int article_subtitle=0x7f0d008a;
-        public static final int article_title=0x7f0d0085;
+        public static final int article_title=0x7f0d0089;
         public static final int auto=0x7f0d0021;
         public static final int beginning=0x7f0d0034;
         public static final int bottom=0x7f0d0022;
@@ -2860,8 +2860,8 @@ containing a value of this type.
         public static final int pager=0x7f0d006d;
         public static final int parallax=0x7f0d002c;
         public static final int parentPanel=0x7f0d0049;
-        public static final int photo=0x7f0d0083;
-        public static final int photo_container=0x7f0d0082;
+        public static final int photo=0x7f0d0082;
+        public static final int photo_container=0x7f0d0081;
         public static final int pin=0x7f0d002d;
         public static final int progress_circular=0x7f0d0006;
         public static final int progress_horizontal=0x7f0d0007;
@@ -2875,7 +2875,7 @@ containing a value of this type.
         public static final int scrollIndicatorUp=0x7f0d004e;
         public static final int scrollView=0x7f0d004f;
         public static final int scrollable=0x7f0d003c;
-        public static final int scrollview=0x7f0d0081;
+        public static final int scrollview=0x7f0d0083;
         public static final int search_badge=0x7f0d0062;
         public static final int search_bar=0x7f0d0061;
         public static final int search_button=0x7f0d0063;
@@ -2887,7 +2887,7 @@ containing a value of this type.
         public static final int search_src_text=0x7f0d0067;
         public static final int search_voice_btn=0x7f0d006b;
         public static final int select_dialog_listview=0x7f0d006c;
-        public static final int share_fab=0x7f0d0088;
+        public static final int share_fab=0x7f0d0087;
         public static final int shortcut=0x7f0d0056;
         public static final int showCustom=0x7f0d0011;
         public static final int showHome=0x7f0d0012;
@@ -2910,7 +2910,7 @@ containing a value of this type.
         public static final int text2=0x7f0d0093;
         public static final int textSpacerNoButtons=0x7f0d0050;
         public static final int text_input_password_toggle=0x7f0d007f;
-        public static final int thumbnail=0x7f0d0089;
+        public static final int thumbnail=0x7f0d0088;
         public static final int time=0x7f0d0091;
         public static final int title=0x7f0d0046;
         public static final int title_template=0x7f0d004b;
